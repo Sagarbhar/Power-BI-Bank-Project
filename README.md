@@ -36,7 +36,7 @@ The TechnoEdge Customers Banking Details dataset contains information on custome
 
 2) Used the "Transform Data" tab and the "Capitalize Each Word" option to display the "Name" column in capitalized format for each word.
 
-3) Used the "Add Column" tab and the "Merge Columns" option to combine the "Name" and "Sir Name" columns using a space separator.
+3) Used the "Add Column" tab and the "Merge Columns" option to combine the "Name" and "SurName" columns using a space separator.
 
 4) Used the "Transform Data" tab and the "Remove Rows" option to select the "Remove Blank Rows" option to remove any blank rows from the dataset.
 
